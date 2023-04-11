@@ -1,4 +1,4 @@
-## Hi, i'm antoine :wave:
+<h3> <img src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="30px"> Hello </h3> 
 
 ### I'm a student in computer science at the University of Caen and a cyber security enthusiast  <img src="https://i.kym-cdn.com/photos/images/original/001/742/441/847.jpg" width="50" height="50" />
 
