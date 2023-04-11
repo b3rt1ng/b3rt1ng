@@ -1,4 +1,4 @@
-<h3> <img src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="30px"> Hello ! </h3> 
+<h2 align="center"> <img src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="30px"> Hello !  <br/> </h2> 
 
 I'm a student in computer science at the University of Caen and a cyber security enthusiast 👨‍💻
 
