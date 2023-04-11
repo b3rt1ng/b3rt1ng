@@ -1,6 +1,6 @@
 <h2 align="center"> <img src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="30px"> Hello !  <br/> </h2> 
 
-<p align="center"> <samp> I'm Antoine, a student in computer science at the University of Caen and a cyber security enthusiast 👨‍💻
+<p align="center"> <samp> I'm Antoine, a student in computer science at the University of Caen and a cyber security enthusiast <img src="https://media.tenor.com/Pm4S40MGsIQAAAAC/hacker-hackerman.gif" width="30px">
 
 
 ![stats](https://github-readme-stats.vercel.app/api?username=b3rt1ng&show_icons=true&theme=gruvbox)
