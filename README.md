@@ -2,4 +2,4 @@
 
 <p align="center"> <samp> I'm Antoine, a student in computer science and cybersecurity <img src="https://media.tenor.com/Pm4S40MGsIQAAAAC/hacker-hackerman.gif" width="30px">
 
-![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=b3rt1ng&theme=gruvbox&layout=compact)
+![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=b3rt1ng&theme=gruvbox&layout=wide)
