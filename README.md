@@ -8,4 +8,8 @@
 </p>
 
 I'm currently working on a suite of tools:
-Octocrawl: A webstite crawler ![Octocrawl](https://github.com/b3rt1ng/Octocrawl)
+
+
+[Octocrawl](https://github.com/b3rt1ng/Octocrawl): A webstite crawler for web recon
+
+[Subling](https://github.com/b3rt1ng/SubLing): a simple alternative of subdns fuzzing tools
