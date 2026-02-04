@@ -9,7 +9,8 @@
 
 I'm currently working on a suite of tools:
 
+[Sentipede](https://github.com/b3rt1ng/Sentipede): Pentest oriented webserver, basically http.server on steroids  
 
 [Octocrawl](https://github.com/b3rt1ng/Octocrawl): A webstite crawler for web recon
 
-[Subling](https://github.com/b3rt1ng/SubLing): a simple alternative of subdns fuzzing tools
+[Subling](https://github.com/b3rt1ng/SubLing): A simple alternative of subdns fuzzing tools
