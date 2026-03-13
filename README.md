@@ -8,6 +8,7 @@
 </p>
 
 I'm currently working on a suite of tools:
+[Koi](https://github.com/b3rt1ng/Koi): A feature rich yet easy to use shell handler
 
 [Sentipede](https://github.com/b3rt1ng/Sentipede): Pentest oriented webserver, basically http.server on steroids  
 
