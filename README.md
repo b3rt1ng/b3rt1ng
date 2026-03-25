@@ -1,5 +1,5 @@
 <p align="center">
-  <img src='https://x.tw93.fun/images/hi.gif' alt='Hello,' width="20"/> I'm **Antoine**, a cybersecurity passionate, Bug hunter / Pentester, CTF player and eternal learner
+  <img src='https://x.tw93.fun/images/hi.gif' alt='Hello,' width="20"/> I'm Antoine, a cybersecurity passionate, Bug hunter / Pentester, CTF player and eternal learner
 </p>
 
 <div align="center">
