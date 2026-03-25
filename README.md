@@ -13,6 +13,6 @@
 
 <p align="center"> <samp> Some stats <img src="https://media.tenor.com/Pm4S40MGsIQAAAAC/hacker-hackerman.gif" width="18px">
 
-<p align="center">
+<p align="">
   <img src="https://github-readme-stats.vercel.app/api?username=b3rt1ng&hide=contribs&theme=dracula" />
 </p>
